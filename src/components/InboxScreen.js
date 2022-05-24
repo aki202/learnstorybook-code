@@ -27,7 +27,7 @@ export default function InboxScreen() {
     <div className="page lists-show">
       <nav>
         <h1 className="title-page">
-          <span className="title-wrapper">Task Box 4</span>
+          <span className="title-wrapper">Task Box 5</span>
         </h1>
       </nav>
       <TaskList />
